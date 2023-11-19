@@ -1,4 +1,7 @@
-### Hi there 👋
+# Juancho7
+## Juan Fernando Ordoñez Martinez
+
+A committed person, responsible, and lifelong learner. I am guided by discipline and honesty. I have a spirit of leadership and keep calm when working under pressure. I relate easily to working as a team to accomplish the institution's goals.
 
 <!--
 **Juancho7/Juancho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
