@@ -1,19 +1,21 @@
-# Juancho7
-## Juan Fernando Ordoñez Martinez
+# Welcome, I’m Juan! 👋
 
-A committed person, responsible, and lifelong learner. I am guided by discipline and honesty. I have a spirit of leadership and keep calm when working under pressure. I relate easily to working as a team to accomplish the institution's goals.
+## Juan Ordoñez
 
-<!--
-**Juancho7/Juancho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer engineering student from Colombia, transitioning from a background in video editing into backend development and automation.
 
-Here are some ideas to get you started:
+I’m currently in training, studying computer engineering and building personal projects to learn how to design and implement backend systems and automations.
+My goal is to solve real‑world problems through software and automation while I keep growing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Make](https://img.shields.io/badge/Make-4C6FFF?style=for-the-badge&logo=make&logoColor=white)
+
+### Contact
+
+- **LinkedIn:** [linkedin.com/in/juan-ordoñez-752297264](https://linkedin.com/in/juan-ordoñez-752297264)
+- **Email:** juanworkingandlearning@gmail.com
