@@ -19,3 +19,8 @@ My goal is to solve real‑world problems through software and automation while 
 
 - **LinkedIn:** [linkedin.com/in/juan-ordoñez-752297264](https://linkedin.com/in/juan-ordoñez-752297264)
 - **Email:** juanworkingandlearning@gmail.com
+
+### Beyond code
+
+I’m also learning about organic virality with short‑form video and plan to go deeper into digital marketing, so I can better understand how software, automation and content work together to create real impact.
+
