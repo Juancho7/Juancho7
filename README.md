@@ -14,6 +14,7 @@ My goal is to solve real‑world problems through software and automation while 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-4C6FFF?style=for-the-badge&logo=make&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Contact
 
@@ -23,4 +24,3 @@ My goal is to solve real‑world problems through software and automation while 
 ### Beyond code
 
 I’m also learning about organic virality with short‑form video and plan to go deeper into digital marketing, so I can better understand how software, automation and content work together to create real impact.
-
